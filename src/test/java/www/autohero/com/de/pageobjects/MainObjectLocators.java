@@ -21,11 +21,11 @@ class MainObjectLocators {
 
     public static final By EACH_FILTER_OF_ELEMENT = By.xpath("li/button");
 
-    public static final By BUTTON_ERGEBNISSE = By.xpath("//*[@id=\"app\"]/div/main/div[5]/div/div/div/div/div/div/a");
+    public static final By BUTTON_ERGEBNISSE = By.xpath("//*[@id=\"app\"]/div/main/div[5]/div/div/div/div/div/div/Mouse");
 
     public static final By RESULT_TABLE = By.xpath("//*[@id=\"app\"]/div/main/div[4]/div/div[2]/div/div[3]/div[2]");
 
-    public static final By ITEM_FROM_RESULT_TABLE = By.xpath("div/div/div/a");
+    public static final By ITEM_FROM_RESULT_TABLE = By.xpath("div/div/div/Mouse");
 
     public static final By FIELD_WITH_YEAR = By.xpath("ul/li[1]");
 
