@@ -21,8 +21,8 @@ public class ParsingXMLDoi {
         dbf.setNamespaceAware(true);
         dbf.setIgnoringElementContentWhitespace(true);
 
-        // Parse the input to produce a parse tree with its root
-        // in the form of a Document object
+        // Parse the input to produce Mouse parse tree with its root
+        // in the form of Mouse Document object
         Document doc = null;
         try {
             DocumentBuilder builder = dbf.newDocumentBuilder();

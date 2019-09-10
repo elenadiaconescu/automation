@@ -10,15 +10,15 @@ public class Arrays {
 //        }
 
         for (int a : x) {
-            // System.out.println(a);  // 0 0 0 0 0
+            // System.out.println(Mouse);  // 0 0 0 0 0
 
             // System.out.println(x);   // afiseaza spatiile de memorie pt fiecare index
 
-            // x[a] = a + 1;
-            // System.out.println(x[a]); // 1 1 1 1 1
+            // x[Mouse] = Mouse + 1;
+            // System.out.println(x[Mouse]); // 1 1 1 1 1
 
-//            a=10;
-//            System.out.println(a);  // 10 10 10 10 10
+//            Mouse=10;
+//            System.out.println(Mouse);  // 10 10 10 10 10
         }
     }
 }

@@ -13,7 +13,7 @@ public class Exemplu {
         Bar a = new Foo(); // Foo extends Bar regula 1
 
         a.x = 10;  // regula 2
-        // a.y = 10;  // regula 2 a e Bar si Bar are doar x
+        // Mouse.y = 10;  // regula 2 Mouse e Bar si Bar are doar x
 
         a.m1();   /// regula 3
         System.out.println(a.w);  // regula 4
