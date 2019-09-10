@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+
+<!--&lt;!&ndash; This document is both well formed and valid &ndash;&gt;-->
+
+<!--<!DOCTYPE folks [-->
+        <!--<!ELEMENT folks (person)*>-->
+        <!--<!ELEMENT person (name, phone, email)>-->
+        <!--<!ELEMENT name (#PCDATA)>-->
+        <!--<!ELEMENT phone (#PCDATA)>-->
+        <!--<!ELEMENT email (#PCDATA)>-->
+        <!--]>-->
+
+<folks>
+    <person>
+        <name>B D</name>
+        <phone>999 555-8888</phone>
+        <email>b@xyz.net</email>
+    </person>
+</folks>
